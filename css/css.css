@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Victor Moscoso";
+  src: url("../fonts/victor-moscoso.ttf")
+}
+
+html {
+  font-family: "Victor Moscoso";
+  color: white;
+}
+
+a {
+  color: inherit;
+}
+
+body {
+  background-color: #1c6a85;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 span {
+  height: 150px;
+  position: absolute;
+  transform-origin: bottom center;
+}
